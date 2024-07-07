@@ -1,7 +1,7 @@
-[# Preface](url)
-[# Objectives](url)
-[# Technologies Used](url)
-[# Conclusion](url)
+[ Preface](url)
+[ Objectives](url)
+[ Technologies Used](url)
+[ Conclusion](url)
 
 # Preface
 
