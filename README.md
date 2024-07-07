@@ -6,17 +6,9 @@ as a daily ritual and an essential cash crop around the globe. In recent years, 
 of coffee production has been concerning due to the potential impact of climate change on its 
 cultivation.
 
-#### The objective of conducting this study is to investigate the distribution of the Coffea arabica 
-#### species, known for its high-quality and delicate flavor, in the diverse coffee-growing regions 
-#### of India. By examining the current distribution patterns and exploring the potential future 
-#### changes, we aim to shed light on the challenges and opportunities facing coffee production in 
-#### the country.
+#### The objective of conducting this study is to investigate the distribution of the Coffea arabica species, known for its high-quality and delicate flavor, in the diverse coffee-growing regions of India. By examining the current distribution patterns and exploring the potential future changes, we aim to shed light on the challenges and opportunities facing coffee production in the country.
 
-#### This research endeavor is prompted by the growing body of evidence that highlights the 
-#### vulnerability of coffee cultivation to climate change. Numerous studies have emphasized the 
-#### potential adverse effects of rising temperatures, altered precipitation patterns and shifting 
-#### climatic zones on coffee production. Moreover, projections for the next 50 years suggest 
-#### significant changes in the suitability and availability of coffee-growing areas worldwide.
+#### This research endeavor is prompted by the growing body of evidence that highlights the vulnerability of coffee cultivation to climate change. Numerous studies have emphasized the potential adverse effects of rising temperatures, altered precipitation patterns, and shifting climatic zones on coffee production. Moreover, projections for the next 50 years suggest significant changes in the suitability and availability of coffee-growing areas worldwide.
 To provide a comprehensive analysis, this study will draw upon a range of eye-opening 
 research conducted on the impact of climate change on coffee and its potential depletion in 
 various parts of the World.
