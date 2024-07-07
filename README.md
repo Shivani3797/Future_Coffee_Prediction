@@ -34,13 +34,17 @@ challenges and opportunities faced by the coffee industry in India, while also c
 the broader global discourse on the future of coffee production.
 
 # Objectives
-➢ Objective 1: Running Maxent model to find out impacting climatic variables for coffee 
+
+➢ Objective 1: Running the Maxent model to find out impacting climatic variables for coffee 
 arabica species occurrence and its possible distribution with all bioclim variables as 
-impacting factor for projected year 2021-2040.
-➢ Objective 2: Projecting change in predictor variable i.e., annual temperature for year 
+impacting factor for the projected year 2021-2040.
+
+➢ Objective 2: Projecting change in predictor variable i.e., annual temperature for the year 
 2060-2080.
+
 ➢ Objective 3: Generalized Linear Modelling for Karnataka region, predicting coffee 
-arabica species distribution in state from high contributing bioclim variables.
+arabica species distribution in the state from high contributing bioclim variables.
+
 ➢ Objective 4: Time-series analysis of predictor variables (Tmin, Precipitation) to 
 comprehend trends for short-term climate forecast of the study area and ecologically 
 relevant areas to species in the current scenario.
@@ -52,7 +56,17 @@ relevant areas to species in the current scenario.
 ### Python
 
 # Conclusion
+1.) In conclusion, this study highlights the significance of temperature as a crucial bioclimatic variable that greatly influences Coffee arabica production in India. The impressive AUC curve value of 0.976 further confirms the model's excellence in classification. 
 
+2.) The projected data for the years 2060-2080 paints a clear picture of an inevitable 3-degree Celsius temperature rise in India. This information is essential for understanding the potential future impact of coffee arabica production.
+
+3.) Moreover, utilizing GLM modeling on the current species occurrence locations, it is suggested that under the influence of four major bioclimatic variables, the occurrence of the species is highly likely to deviate by approximately 40 kilometers from its current location by 2060-2080. 
+
+4.) This emphasizes the need to consider the potential geographical shifts that may occur in response to changing bioclimatic conditions. Looking towards the short-term forecast, the Holt linear time series analysis indicates that over the next decade, the production and bearing area of coffee arabica is expected to increase. 
+
+5.) However, it is crucial to note that despite this growth, the concerning trends observed in temperature and precipitation patterns in India will undoubtedly lead to a drastic decrease in productivity (measured in kilograms per hectare).
+
+Taking all these factors into account, it becomes evident that the future of Coffee arabica production in India faces significant challenges due to the predicted rise in temperature and its subsequent impact on productivity. Urgent measures and adaptation strategies should be implemented to mitigate these effects and sustain the coffee industry in the face of changing climate conditions.
 
 
 
