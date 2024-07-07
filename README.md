@@ -1,6 +1,6 @@
 [ Preface](https://github.com/Shivani3797/Future_Coffee_Prediction/blob/main/README.md#preface)
 
-[ Objectives](url)
+[ Objectives](https://github.com/Shivani3797/Future_Coffee_Prediction/blob/main/README.md#objectives)
 
 [ Technologies Used](url)
 
